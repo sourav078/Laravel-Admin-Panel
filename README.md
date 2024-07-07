@@ -1,6 +1,6 @@
 ## To setup 
 
-- clone this: https://github.com/sudiptokarmoker/codeact-laravel-cms.git
+- clone this: https://github.com/sourav078/Laravel-Admin-Panel.git
 - copy any default laravel project .env file
 - setup database connection with db name, host and port
 - run command (in prorject directory) : composer install  or  composer udpate
